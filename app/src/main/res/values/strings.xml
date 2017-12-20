@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZebarDemo</string>
+    <string name="none_paired">No Devices Found</string>
+    <string name="title_serial">Serial</string>
+    <string name="colon">:</string>
+    <string name="title_model">Model</string>
+    <string name="title_activity_settings_detail">Setting Details</string>
+    <string name="batch_mode_running_title">Running in batch mode</string>
+    <string name="app_title">RFID Reader</string>
+</resources>
